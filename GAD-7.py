@@ -62,13 +62,13 @@ def patient_analysis():
 # In[233]:
 
 
-patient_analysis()
+patient_analysis()# Calling the function to take the patient id as input
 
 
 # In[217]:
 
 
-type(data_new["patient_id"])
+
 
 
 # ### Insights that can be drawn from he data
